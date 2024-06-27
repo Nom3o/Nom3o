@@ -25,8 +25,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nom3o/Nom3o/output/snake.svg" alt="Snake animation" />
-
-###
