@@ -1,4 +1,4 @@
-<div align="center"><h1> 👋 I'm Abel</h1>
+![Project Badge](https://img.shields.io/badge/%20I_AM-ABEL_MEKURIYA-red?style=for-the-badge)
   <a href="#" style="text-decoration:none; color: inherit;">
     <span style="display:inline-block; transition: transform 0.2s; animation: none;" onmouseover="this.style.animation='wave 2s infinite';" onmouseout="this.style.animation='none';">
 
