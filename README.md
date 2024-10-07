@@ -1,4 +1,8 @@
-![Project Badge](https://img.shields.io/badge/%20I_AM-ABEL_MEKURIYA-red?style=for-the-badge)
+<div align="center">
+
+ # ![Project Badge](https://img.shields.io/badge/%20I_AM-ABEL_MEKURIYA-red?style=for-the-badge)
+
+</div>
   <a href="#" style="text-decoration:none; color: inherit;">
     <span style="display:inline-block; transition: transform 0.2s; animation: none;" onmouseover="this.style.animation='wave 2s infinite';" onmouseout="this.style.animation='none';">
 
