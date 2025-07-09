@@ -1,4 +1,5 @@
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
  # ![Project Badge](https://img.shields.io/badge/%20I_AM-ABEL_MEKURIYA-red?style=for-the-badge)
 
