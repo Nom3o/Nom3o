@@ -72,7 +72,7 @@
 
 ---
 
-### 🚨 Keep your fire alive, build with power & style — @AB3L4 💀
+
 
 <!-- Signature -->
-<!-- Coded with 🔥 by Abel Mekuriya / Nom3o -->
+<!-- Coded with 🔥 by Nom3o @https://github.com/Nom3o-->
